@@ -1,0 +1,21 @@
+{
+  "properties": {
+    "roleName": "Lab Tag Operator",
+    "description": "View the lab resource group and manage its tags without general resource-management permissions.",
+    "assignableScopes": [
+      "/subscriptions/<SUBSCRIPTION_ID>/resourceGroups/rg-iam-security-lab"
+    ],
+    "permissions": [
+      {
+        "actions": [
+          "Microsoft.Resources/subscriptions/resourceGroups/read",
+          "Microsoft.Resources/tags/read",
+          "Microsoft.Resources/tags/write"
+        ],
+        "notActions": [],
+        "dataActions": [],
+        "notDataActions": []
+      }
+    ]
+  }
+}
