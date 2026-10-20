@@ -97,7 +97,7 @@ Limitations: it does not expand group membership, evaluate custom-role actions, 
 
 All 15 supplied screenshots have publication copies in `evidence/`. See [EVIDENCE_REVIEW.md](EVIDENCE_REVIEW.md) for individual captions, redactions and evidence limitations. Numeric gaps are retained rather than inventing missing screenshots. File 11 is a second overlapping-role view and has been renamed to reflect its content.
 
-## Cleanup checklist - not yet confirmed
+## Cleanup checklist - confirmed
 
 After verifying local copies of the evidence:
 
